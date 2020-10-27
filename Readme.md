@@ -3,7 +3,7 @@
   <img src=".github/logo.svg" alt="Happy" />
   
   <p align="center">
-    <b>Happy é uma para conectar instituições de cuidados infantis com pessoas interessadas em ajudar</b>
+    <b>Happy é uma plataforma para conectar instituições de cuidados infantis com pessoas interessadas em ajudar</b>
   </p>
 
   <div align="center" >
